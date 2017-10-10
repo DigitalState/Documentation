@@ -11,4 +11,4 @@ When `href` is required in a form, you typically want to redirect the parent win
 
 To do this, ensure that your `href` has the attribute `target="_top"`; this will ensure that the parent window is redirected whene the user selects the `href` link.
 
-![formio config for href link of parent window]("resources/href-link.png")
+![formio config for href link of parent window](resources/href-link.png)
