@@ -49,3 +49,9 @@ Status Code: `400 Bad Request`
 Context: The form has a field with the API name `firstName` which is marked as required.  This field is required on the client side and because all validations are also preformed on the server side, when a direct API call is made to make a submission, the `firstName` field is required as part of a server side validation.
 
 The first server side validation that occurs is returned immediately to the requestor.   
+
+
+
+# Service Design Consdierations
+
+1. Scenarios should be linkable from the URL: Allowing a user in the browser to link directly to a scenario allows sharing of services and the specific scenario.
