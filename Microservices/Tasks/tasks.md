@@ -1,6 +1,6 @@
 # Tasks
 
-** The Tasks microservice is a enterprise only feature.**
+**The Tasks microservice is a enterprise only feature.**
 
 The Tasks microservice provides mappings and functionality for User Tasks, primarily managed by the Workflow/Camunda microserivce.
 
